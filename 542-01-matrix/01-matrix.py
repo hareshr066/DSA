@@ -1,5 +1,4 @@
 from collections import deque
-
 class Solution:
     def updateMatrix(self, mat: list[list[int]]) -> list[list[int]]:
         rows = len(mat)
